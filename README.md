@@ -61,5 +61,7 @@ The code for this can be found in the repository under the file "Vacation_Itiner
 
 I created a map (travel itinerary) that displays the route between four cities that my customer chose. The route that makes the most sense is shown below.
 ![](https://github.com/jusnguyen03/World_Weather_Analysis/blob/master/weather_data/WeatherPy_travel_map.png)
+
 The trip starts in the city of Shuji, and travels west to Dongsheng, then Enshi, and ending the trip in Huilong.
+
 ![](https://github.com/jusnguyen03/World_Weather_Analysis/blob/master/weather_data/WeatherPy_travel_map_markers.png)
