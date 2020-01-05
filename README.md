@@ -34,7 +34,9 @@ Codes for all 3 parts
   - Weather_Database.ipynb
   - Vacation_Search.ipynb
   - Vacation_Itinerary.ipynb
+  
 Located in the "weather_data" folder are the following CSV files and images
+
   - WeatherPy_challenge.csv
   - WeatherPy_vacation.csv
   - WeatherPy_vacation_map.png
