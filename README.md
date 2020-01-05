@@ -60,6 +60,8 @@ I had a customer want to go somewhere with the mininum temperature being 40 degr
 #### Create a Travel Itinerary with a Corresponding Map
 The code for this can be found in the repository under the file "Vacation_Itinerary.ipynb".
 
+https://github.com/jusnguyen03/World_Weather_Analysis/blob/master/weather_data/Vacation_Itinerary_df.png
+
 I created a map (travel itinerary) that displays the route between four cities that my customer chose. The route that makes the most sense is shown below.
 ![](https://github.com/jusnguyen03/World_Weather_Analysis/blob/master/weather_data/WeatherPy_travel_map.png)
 
