@@ -45,7 +45,8 @@ Located in the "weather_data" folder are the following CSV files and images
 #### Get the Weather Description and Amount of Precipitation for Each City
 The code for this can be found in the repository under the file "Weather_Database.ipynb".
 ![](https://github.com/jusnguyen03/World_Weather_Analysis/blob/master/weather_data/Weather_Database_df.png)
-There are 47 cities that have recorded rain or snow.
+
+#### There are 47 cities that have recorded rain or snow.
 
 ### Part 2
 #### Have Customers Narrow Their Travel Searches Based on Temperature and Precipitation
@@ -62,6 +63,6 @@ The code for this can be found in the repository under the file "Vacation_Itiner
 I created a map (travel itinerary) that displays the route between four cities that my customer chose. The route that makes the most sense is shown below.
 ![](https://github.com/jusnguyen03/World_Weather_Analysis/blob/master/weather_data/WeatherPy_travel_map.png)
 
-The trip starts in the city of Shuji, and travels west to Dongsheng, then Enshi, and ending the trip in Huilong.
+The trip starts in the city of Shuiji, and travels west to Dongsheng, then Enshi, and ending the trip in Huilong.
 
 ![](https://github.com/jusnguyen03/World_Weather_Analysis/blob/master/weather_data/WeatherPy_travel_map_markers.png)
