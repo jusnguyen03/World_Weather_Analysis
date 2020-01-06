@@ -55,7 +55,9 @@ The code for this can be found in the repository under the file "Weather_Databas
 The code for this can be found in the repository under the file "Vacation_Search.ipynb".
 ![](https://github.com/jusnguyen03/World_Weather_Analysis/blob/master/weather_data/WeatherPy_vacation_map.png)
 
-I had a customer want to go somewhere with the mininum temperature being 40 degrees and maximum tempature being 85 degrees. They said it would be ok if it rained, but definitely did not want any snow. Based off of this customer's criteria, we searched 357 possible locations. 
+![](https://github.com/jusnguyen03/World_Weather_Analysis/blob/master/weather_data/WeatherPy_vacation_map_popup.png)
+
+I had a customer want to go somewhere with the mininum temperature being 40 degrees and maximum tempature being 85 degrees. They said they did not want it to rain or snow on their trip. Based off of this customer's criteria, we searched 311 possible locations. 
 
 
 ### Part 3
@@ -69,6 +71,6 @@ My customer has chosen to travel to 4 cities within the country China.
 I created a map (travel itinerary) that displays the route between four cities that my customer chose. The route that makes the most sense is shown below.
 ![](https://github.com/jusnguyen03/World_Weather_Analysis/blob/master/weather_data/WeatherPy_travel_map.png)
 
-The trip starts in the city of Shuiji, and travels west to Dongsheng, then Enshi, and ending the trip in Huilong. As you can see below, the cities within the country are listed, as well as the hotels my customer will be staying at for each location.
+The trip starts in the city of Shuiji, and travels west to Dongsheng, then Xunchang, and ending the trip in Huilong. As you can see below, the cities within the country are listed, as well as the hotels my customer will be staying at for each location.
 
 ![](https://github.com/jusnguyen03/World_Weather_Analysis/blob/master/weather_data/WeatherPy_travel_map_markers.png)
