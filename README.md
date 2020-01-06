@@ -34,7 +34,9 @@ Codes for all 3 parts
   - Weather_Database.ipynb
   - Vacation_Search.ipynb
   - Vacation_Itinerary.ipynb
+  
 Located in the "weather_data" folder are the following CSV files and images
+
   - WeatherPy_challenge.csv
   - WeatherPy_vacation.csv
   - WeatherPy_vacation_map.png
@@ -60,9 +62,13 @@ I had a customer want to go somewhere with the mininum temperature being 40 degr
 #### Create a Travel Itinerary with a Corresponding Map
 The code for this can be found in the repository under the file "Vacation_Itinerary.ipynb".
 
+My customer has chosen to travel to 4 cities within the country China.
+
+![](https://github.com/jusnguyen03/World_Weather_Analysis/blob/master/weather_data/Vacation_Itinerary_df.png)
+
 I created a map (travel itinerary) that displays the route between four cities that my customer chose. The route that makes the most sense is shown below.
 ![](https://github.com/jusnguyen03/World_Weather_Analysis/blob/master/weather_data/WeatherPy_travel_map.png)
 
-The trip starts in the city of Shuiji, and travels west to Dongsheng, then Enshi, and ending the trip in Huilong.
+The trip starts in the city of Shuiji, and travels west to Dongsheng, then Enshi, and ending the trip in Huilong. As you can see below, the cities within the country are listed, as well as the hotels my customer will be staying at for each location.
 
 ![](https://github.com/jusnguyen03/World_Weather_Analysis/blob/master/weather_data/WeatherPy_travel_map_markers.png)
